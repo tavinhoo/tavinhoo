@@ -6,11 +6,15 @@
 
 </div>
 
-<hr>
+<div align="center">
+
+ ![Profile Wallpaper](https://e0.pxfuel.com/wallpapers/864/770/desktop-wallpaper-typography-minimalism-digital-art-simple-background-think-lightbulb-mocah-minimalist-light.jpg)
+
+</div>
 
 <div>
 
--  ### About me.
+-  ### About me:
   
     ├── :man_student: Luiz Otávio, 21. <br>
   
@@ -38,7 +42,6 @@
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavinhoo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tavinhoo&theme=dark)
 
 </div>
