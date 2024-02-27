@@ -13,7 +13,7 @@
 
 <br>
 
-- 🎓 Software Engineer student at @[UTFPR](ww.google.com) - Universidade Tecnológica Federal do Paraná.
+- 🎓 Software Engineer student at @[UTFPR](https://www.utfpr.edu.br/) - Universidade Tecnológica Federal do Paraná.
 - 👩‍💻 Specializing as a Backend Developer, but always adhering to front end technologies.
 - 🌱 Java Enthusiast.
 - 🌐 Passionate about web development.
