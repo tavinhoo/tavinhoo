@@ -20,16 +20,16 @@
 <br>
 
 - 🎓 Software Engineer student at @[UTFPR](https://www.utfpr.edu.br/) - Universidade Tecnológica Federal do Paraná.
-- 👩‍💻 Specializing as a Backend Developer, but always adhering to front end technologies.
-- 🌱 Java Enthusiast.
-- 🌐 Passionate about web development.
+- 👩‍💻 Working as a Fullstack Developer with hands-on experience in web development.
+- 🐹 Currently focused on Go
+- 🌐 Deeply interested in lower-level technologies.
 
 <br>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> Tools and Technologies:
   <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,typescript,angular,c,cpp,aws,docker,kubernetes,postgres,mysql,mongodb,js,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,react,java,spring,c,cpp,azure,docker,redis,postgres,mysql,mongodb,linux" />
       </a>
   </p>
 
