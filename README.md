@@ -21,7 +21,7 @@
 
 - 🎓 Software Engineer student at @[UTFPR](https://www.utfpr.edu.br/) - Universidade Tecnológica Federal do Paraná.
 - 👩‍💻 Working as a Fullstack Developer with hands-on experience in web development.
-- 🐹 Currently focused on Go
+- 🐹 Currently focused on Go.
 - 🌐 Deeply interested in lower-level technologies.
 
 <br>
