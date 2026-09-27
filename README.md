@@ -17,7 +17,7 @@
 
 <br>
 
-- Software Engineering student at [UTFPR-CP](https://www.utfpr.edu.br/).
+- Software Engineering student at [UTFPR](https://www.utfpr.edu.br/).
 - Currently working as a Backend Developer.
 - Deepening my knowledge of Java, software architecture, and distributed systems.
 - Interested in the engineering behind software: how systems are designed, how components communicate, and the trade-offs behind architectural decisions.
